@@ -4,10 +4,9 @@ import requests
 ASSET_URLS = [
     "https://game-assets.brawlstarsgame.com/",
     "https://game-assets.squadbustersgame.com/",
-    "https://game-assets.clashofclansgame.com/",
-    "https://game-assets.clashroyalegame.com/",
-    "https://game-assets.haydaygame.com/",
-    "https://game-assets.boombeachgame.com/"
+    "https://game-assets.clashroyaleapp.com",
+    "https://game-assets.haydaygame.com",
+    "https://game-assets.clashofclans.com"
 ]
 
 class Data:
